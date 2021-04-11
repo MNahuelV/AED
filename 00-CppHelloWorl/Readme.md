@@ -15,7 +15,7 @@ personal.
 > 7. Indicar en readme.md el compilador seleccionado.
 > 8. Probar el compilador con un programa hello.cpp que envíe a cout la línea
 Hello, World! o similar.
-> 9. Ejecutar el programa, y capturar su salida en un archivo output.txt .
+> 9. Ejecutar el programa, y capturar su salida en un archivo output.txt.
 > 10.Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con
-readme.md, hello.cpp, y output.txt .
+readme.md, hello.cpp, y output.txt
 > 11.La última tarea es informar el usuario GitHub en la lista indicada en el curso.
