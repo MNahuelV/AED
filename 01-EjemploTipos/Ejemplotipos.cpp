@@ -20,28 +20,17 @@ using namespace std;
 
 int main () {
     //tipo de dato int
-        int Num  = 1045/43;
-        assert(Num == 1025/43);
+        assert(32 == 3.2);
 
 
     //Tipo de dato bool
         assert (true + true == false);
     
-    //Tipo de dato Char
-        char Letra = 'a';
-        assert(Letra == 96 );
-
-    //Tipo de dato Unsigned
-        unsigned Pos = -3;
-        assert (Pos < 0);
-
 	//tipo de dato Double
-	    int a = 1.4;
-	    double b = 1.4;
-	    assert( a == b);
+	    assert(3 == 3.2);
         
     // Tipo de dato String 
-        string pal = "";
-        assert (pal.empty());
+
+    assert("Lado" == "dxzz");
 
 }
